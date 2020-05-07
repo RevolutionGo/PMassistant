@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_app_name">PMhelper</string>
+    <string name="action_settings">settings</string>
+    <string name="title_activity_add_item">Add</string>
+    <string name="title_activity_edit_item">edit_items</string>
+    <string name="add_item_tip">Please enter todo item</string>
+    <string name="add_item_submit">Submit</string>
+    <string name="add_editText_hint">name of todo items</string>
+    <string name="edit_btn_submit">submit</string>
+    <string name="edit_editText_hint">name of todo item</string>
+    <string name="edit_tip">edit todo item</string>
+    <string name="plan_start_time">plan_start_time</string>
+    <string name="comment">comment</string>
+    <string name="people_number">people_number</string>
+    <string name="plan_end_time">plan_end_time</string>
+    <string name="pm_write_time">pm_write_time</string>
+    <string name="task_name">task_name</string>
+    <string name="task_detail">task_detail</string>
+    <string name="task_plan_start_time">task_plan_start_time</string>
+    <string name="task_plan_end_time">task_plan_end_time</string>
+    <string name="task_people">task_people</string>
+    <string name="task_write_time">task_write_time</string>
+    <string name="task_real_start_time">task_real_start_time</string>
+    <string name="task_real_end_time">task_real_end_time</string>
+    <string name="real_write_time">real_write_time</string>
+    <string name="title_activity_follow_item">follow task</string>
+    <string name="title_activity_check_item">check_items</string>
+    <string name="login">login</string>
+    <string name="email_hint">Please enter phone number</string>
+    <string name="email_error">The format of your mobile phone number is not correct!</string>
+    <string name="password_hint">Please enter the password (6 ~ 15 digits)</string>
+    <string name="password_length_error">The password you entered is not correct!</string>
+    <string name="username_or_password_error">wrong user name or password!</string>
+</resources>

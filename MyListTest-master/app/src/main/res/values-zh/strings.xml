@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_add_item">添加</string>
+    <string name="title_activity_edit_item">编辑任务信息</string>
+    <string name="add_item_tip">请输入项目信息</string>
+    <string name="add_item_submit">提交</string>
+    <string name="add_editText_hint">项目名称</string>
+    <string name="edit_tip">修改项目信息</string>
+    <string name="edit_editText_hint">项目名称</string>
+    <string name="edit_btn_submit">提交</string>
+    <string name="title_app_name">PM助手</string>
+    <string name="plan_start_time">计划开始时间</string>
+    <string name="people_number">项目人数</string>
+    <string name="plan_end_time">计划结束时间</string>
+    <string name="pm_write_time">项目录入时间</string>
+    <string name="real_write_time">项目跟踪录入时间</string>
+    <string name="task_detail">任务描述</string>
+    <string name="task_name">任务名称</string>
+    <string name="task_people">任务责任人</string>
+    <string name="task_plan_end_time">任务计划结束时间</string>
+    <string name="task_plan_start_time">任务计划开始时间</string>
+    <string name="task_real_end_time">实际结束时间</string>
+    <string name="task_real_start_time">实际开始时间</string>
+    <string name="task_write_time">任务录入时间</string>
+    <string name="comment">批注</string>
+    <string name="title_activity_follow_item">跟踪项目</string>
+    <string name="title_activity_check_item">查看概况</string>
+    <string name="email_error">你输入的手机号格式不正确！</string>
+    <string name="email_hint">请输入手机号</string>
+    <string name="login">登录</string>
+    <string name="password_hint">请输入密码（6~15位）</string>
+    <string name="password_length_error">你输入的密码长度不正确！</string>
+    <string name="username_or_password_error">用户名或密码错误！</string>
+</resources>
